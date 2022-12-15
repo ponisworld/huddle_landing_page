@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/ponisworld/huddle_landing_page/)
+- Live Site URL: [Add live site URL here]
 
 ## My process
 
@@ -28,6 +28,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Andrea Bellver García](https://www.linkedin.com/in/andrea-bellver-garcia/)
+- Frontend Mentor - [@ponisworld](https://www.frontendmentor.io/profile/ponisworld)
+- Twitter - [@poniscript](https://www.twitter.com/poniscript)

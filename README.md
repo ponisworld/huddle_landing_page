@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/ponisworld/huddle_landing_page/)
-- Live Site URL: [Add live site URL here]
+- Solution URL: https://github.com/ponisworld/huddle_landing_page/
+- Live Site URL: https://ponisworld.github.io/huddle_landing_page/
 
 ## My process
 
